@@ -1,0 +1,10 @@
+##pip 仮想環境ファイル
+/*/bin/
+/*/include/
+/*/lib/
+/imgscrp/data/
+.DS_Store
+
+/bin/
+/include/
+/lib/
