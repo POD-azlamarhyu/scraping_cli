@@ -25,7 +25,7 @@ class JapanStock():
     def inputStockcode(self):
         x = 0
         stock = []
-        while (1):
+        while True:
             brandcode = int(input('取得したい日本国内株式の銘柄コードを入力 $: '))
             if brandcode.isnumeric() == False:
                 print("入力された値が銘柄コードではありません！\nやり直してください")
